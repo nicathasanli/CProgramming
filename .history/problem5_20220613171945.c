@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    int number1,number2;
+    char operator;
+    puts("Enter the Numbers:");
+    scanf("%d%d",&number1,&number2);
+    puts("Enter the operator:");
+    scanf("%c",&operator);
+}
